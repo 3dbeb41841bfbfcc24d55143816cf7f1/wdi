@@ -12,5 +12,4 @@
 ## Links
 
 * [Google Calendar]()
-* [Scope and Sequence]()
-
+* [Scope and Sequence](scope-and-sequence.md)
