@@ -19,3 +19,13 @@
 ## Atlanta WDI Repos
 * [Atlanta WDI Curriculum Repos](https://github.com/ATL-WDI-Curriculum)
 * [Atlanta WDI Exercise Repos](https://github.com/ATL-WDI-Exercises)
+
+## Boston WDI Repos
+* [Boston WDI Resources](https://github.com/ga-wdi-boston)
+  - Try filtering for:
+    * study
+    * project
+    * guide
+    * diagnostic
+    * template
+
