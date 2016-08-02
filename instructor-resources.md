@@ -29,3 +29,6 @@
     * diagnostic
     * template
 
+## Seattle
+* [Seattle GitBook for WDI](https://www.gitbook.com/book/wdi_sea/notes/details)
+
