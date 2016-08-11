@@ -16,11 +16,11 @@
 * [GA WDI Lesson Repos](https://github.com/GA-WDI-Lessons)
 * [GA WDI Exercise Repos](https://github.com/ATL-WDI-Exercises)
 
-## Atlanta WDI Repos
+## Atlanta
 * [Atlanta WDI Curriculum Repos](https://github.com/ATL-WDI-Curriculum)
 * [Atlanta WDI Exercise Repos](https://github.com/ATL-WDI-Exercises)
 
-## Boston WDI Repos
+## Boston
 * [Boston WDI Resources](https://github.com/ga-wdi-boston)
   - Try filtering for:
     * study
@@ -29,6 +29,8 @@
     * diagnostic
     * template
 
+## Chicago
+* [Chicago Git Books](https://www.gitbook.com/@ga-chicago)
+
 ## Seattle
 * [Seattle GitBook for WDI](https://www.gitbook.com/book/wdi_sea/notes/details)
-
