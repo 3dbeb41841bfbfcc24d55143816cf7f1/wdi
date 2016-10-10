@@ -14,7 +14,7 @@
 ## GA WDI Repos (Mostly from D.C.)
 * [GA WDI GitHub Organization](https://github.com/GA-WDI)
 * [GA WDI Lesson Repos](https://github.com/GA-WDI-Lessons)
-* [GA WDI Exercise Repos](https://github.com/ATL-WDI-Exercises)
+* [GA WDI Exercise Repos](https://github.com/GA-WDI-Exercises)
 
 ## Atlanta
 * [Atlanta WDI Curriculum Repos](https://github.com/ATL-WDI-Curriculum)
